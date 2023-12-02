@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hkirk)](https://github.com/hkirk/github-profile-trophy)
+
 <!--
 **hkirk/hkirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
